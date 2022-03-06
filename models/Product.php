@@ -1,7 +1,7 @@
 <?php
 class Product
 {
-	public $price;
+	public $price; //price per unit or KG
 	public $stock; //units or KGs
 	public $product_id;
 	public $quantity; //the quantity the customer chose to buy
